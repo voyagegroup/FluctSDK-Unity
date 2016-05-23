@@ -3,6 +3,9 @@
 [インストールガイド](./Documents/install_manual.md)をご参照下さい。
 
 ## FluctSDK-Unity Release Note
+### v1.4.1 2016/05/24
+* iOS の IPv6 Only Networkに対応
+
 ### v1.4.0 2016/04/20 
 * SDKのアップデート及び一部ディレクトリ構成等の修正
        
