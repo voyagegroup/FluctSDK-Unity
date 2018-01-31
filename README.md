@@ -2,7 +2,16 @@
 ## Installation
 [インストールガイド](./Documents/install_manual.md)をご参照下さい。
 
+## Implementation
+* [バナー広告の実装](./Documents/banner.md)
+* [インタースティシャル広告の実装](./Documents/interstitial.md)
+* [動画リワード広告の実装](./Documents/rewarded_video.md)
+
 ## FluctSDK-Unity Release Note
+### v1.5.0 2018/01/31
+* FluctSDK-iOSの動画リワード広告に対応
+* `FluctSDK-UnityPlugin.unitypackage`の構成を修正
+
 ### v1.4.1 2016/05/24
 * iOS の IPv6 Only Networkに対応
 
