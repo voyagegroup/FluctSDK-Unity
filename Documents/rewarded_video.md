@@ -40,7 +40,6 @@ using Fluct;
 
 public class RewardedVideoCall : MonoBehaviour
 {
-	private FluctRewardedVideo rv;
 	private string groupId = "";  // 貴社groupId
 	private string unitId = "";   // 貴社unitId
 	private string userId = ""; // 追跡用のId(貴社アプリ内のユーザID等をご利用ください) null可
