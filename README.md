@@ -8,6 +8,10 @@
 * [動画リワード広告の実装](./Documents/rewarded_video.md)
 
 ## FluctSDK-Unity Release Note
+### v1.6.0 2018/03/27
+* FluctSDK-Androidの動画リワード広告に対応
+* `FluctSDK-UnityPlugin.unitypackage`の構成を修正
+
 ### v1.5.0 2018/01/31
 * FluctSDK-iOSの動画リワード広告に対応
 * `FluctSDK-UnityPlugin.unitypackage`の構成を修正
