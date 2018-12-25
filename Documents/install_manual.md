@@ -13,8 +13,8 @@
 ### アカウントと広告枠の作成
 [fluct管理画面](https://fluct.jp/login)にて広告枠を作成し、営業担当から広告配信用のIDを受け取って下さい。
 
-### プラグインダウンロード
-[こちら](https://github.com/voyagegroup/FluctSDK-Unity/raw/master/FluctSDK-UnityPlugin.unitypackage)よりダウンロードして下さい。
+### プラグイン(FluctSDK-UnityPlugin.unitypackage)ダウンロード
+[こちら](https://github.com/voyagegroup/FluctSDK-Unity/releases)よりダウンロードして下さい。
 
 ### Google Play Services ライブラリのインストール
 Androidのプロジェクトを作成する場合、Google Play Servicesを連携させる必要があります。  
