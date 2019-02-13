@@ -1,11 +1,8 @@
 # FluctSDK-Unity
-## Installation
-[インストールガイド](./Documents/install_manual.md)をご参照下さい。
 
-## Implementation
-* [バナー広告の実装](./Documents/banner.md)
-* [インタースティシャル広告の実装](./Documents/interstitial.md)
-* [動画リワード広告の実装](./Documents/rewarded_video.md)
+## APIドキュメント
+
+[Wiki](https://github.com/voyagegroup/FluctSDK-Unity/wiki)を参照してください
 
 ## FluctSDK-Unity Release Note
 
