@@ -6,6 +6,11 @@
 
 ## FluctSDK-Unity Release Note
 
+### v1.7.0 2019/03/20
+* [iOSのSDK更新(v4.12.4)](https://github.com/voyagegroup/FluctSDK-iOS#v4124-20190312)
+* [AndroidのSDK更新(v5.3.1)](https://github.com/voyagegroup/FluctSDK-Android#fluctsdk-v531)
+* `FluctSDK-UnityPlugin.unitypackage`の構成を修正
+
 ### v1.6.6 2019/01/10
 * [iOSのSDK更新(v4.11.3)](https://github.com/voyagegroup/FluctSDK-iOS#v4113-20190110)
 * 動画リワードRTBにおける画像が表示されない不具合を修正
