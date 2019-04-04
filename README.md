@@ -6,6 +6,11 @@
 
 ## FluctSDK-Unity Release Note
 
+### v1.8.0 2019/04/04
+* [iOSのSDK更新(v5.0.1)](https://github.com/voyagegroup/FluctSDK-iOS#v501-20190401)
+* [AndroidのSDK更新(v5.3.2)](https://github.com/voyagegroup/FluctSDK-Android#fluctsdk-v532)
+* iOS向け動画リワード広告のメディエーション先CustomEventをCocoaPods経由で取得するよう変更
+
 ### v1.7.0 2019/03/20
 * [iOSのSDK更新(v4.12.4)](https://github.com/voyagegroup/FluctSDK-iOS#v4124-20190312)
 * [AndroidのSDK更新(v5.3.1)](https://github.com/voyagegroup/FluctSDK-Android#fluctsdk-v531)
