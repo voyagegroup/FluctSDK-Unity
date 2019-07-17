@@ -6,6 +6,12 @@
 
 ## FluctSDK-Unity Release Note
 
+### v1.10.0 2019/07/17
+* PlayServiceResolverのversionを1.2.122へ更新
+* ユーザーターゲティング情報のAPIを追加
+* [iOSのSDK更新(v5.5.1)](https://github.com/voyagegroup/FluctSDK-iOS#v551-20190703)
+* [AndroidのSDK更新(v5.5.0)](https://github.com/voyagegroup/FluctSDK-Android#201972)
+
 ### v1.9.0 2019/05/30
 * [iOSのSDK更新(v5.3.0)](https://github.com/voyagegroup/FluctSDK-iOS#v530-20190527)
 
