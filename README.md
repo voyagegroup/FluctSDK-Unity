@@ -6,6 +6,9 @@
 
 ## FluctSDK-Unity Release Note
 
+### v2.0.0 2019/07/18
+* Unity Editorの最低要件をv5.6.3f1へ変更
+
 ### v1.10.0 2019/07/17
 * PlayServiceResolverのversionを1.2.122へ更新
 * ユーザーターゲティング情報のAPIを追加
