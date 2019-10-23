@@ -1,5 +1,9 @@
-# バナー広告の実装
-## Prefabで実装する場合
+# レガシーAPI
+
+### :boom: 本APIの新規枠発行は停止しています。バナー/インステ広告の利用については弊社サポートにお問い合わせ下さい。
+
+## バナー広告の実装
+### Prefabで実装する場合
 
 バナー表示の相対位置指定になります。
 
@@ -19,7 +23,7 @@ Inspectorでの設定
 
 `Position Y`は`TOP`,`CENTER`,`BOTTOM`、`Position X`は`LEFT`,`CENTER`,`RIGHT`の指定が可能です。
 
-## コード実装する場合(実装例)
+### コード実装する場合(実装例)
 
 ```
 private FluctBanner banner;
@@ -33,6 +37,37 @@ void Start () {
 void OnDestroy () {
   // 広告を非表示にする
   banner.Hide();
+}
+```
+
+`YOUR_MEDIA_ID`の部分は発行された本番用`MediaID`を設定してください。
+
+## インタースティシャル広告の実装
+
+### Prefabで実装する場合
+
+Assets/Prefabsにある`FluctStartShowInterstitial.prefab`をDrag&DropでSceneに追加します。
+
+![FluctStartShowInterstitial.prefabをSceneに追加](img/dd_prefab_interstitial.png)
+
+Inspectorでの設定
+
+![Inspector上での設定画面(インターステシャル)](img/inspector_config_interstitial.png)
+
+`YOUR_MEDIA_ID`の部分は発行された本番用`MediaID`を設定してください。
+
+### コード実装する場合(実装例)
+
+```
+private FluctInterstitial interstitial;
+void Start () {
+  interstitial = gameObject.AddComponent<FluctInterstitial>();
+}
+
+void OnGUI () {
+  if (GUI.Button(new Rect(180, 300, 200, 100), "ShowInterstitial")) {
+    interstitial.ShowInterstitial("YOUR_MEDIA_ID");
+  }
 }
 ```
 

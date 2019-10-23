@@ -6,6 +6,12 @@
 
 ## FluctSDK-Unity Release Note
 
+### v3.0.0 2019/10/23
+
+* Unity Editorの最低要件をv5.6.4f1へ変更
+* [iOS向けSDKを更新 (v5.10.4)](https://github.com/voyagegroup/FluctSDK-iOS#v5104-20190924)
+* [Android向けSDKを更新 (v5.9.2)](https://github.com/voyagegroup/FluctSDK-Android#20191016)
+
 ### v2.0.0 2019/07/18
 * Unity Editorの最低要件をv5.6.3f1へ変更
 
