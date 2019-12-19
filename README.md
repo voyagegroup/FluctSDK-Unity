@@ -6,6 +6,13 @@
 
 ## FluctSDK-Unity Release Note
 
+### v4.0.0 2019/12/19
+
+* バナー用APIを削除
+* インタースティシャル用APIを削除
+* [iOS向けSDKを更新 (v6.0.0)](https://github.com/voyagegroup/FluctSDK-iOS)
+* [Android向けSDKを更新 (v6.1.1)](https://github.com/voyagegroup/FluctSDK-Android)
+
 ### v3.1.2 2019/12/11
 
 * [iOS向けSDKを更新 (v5.16.4)](https://github.com/voyagegroup/FluctSDK-iOS)
