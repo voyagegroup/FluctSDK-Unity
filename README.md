@@ -6,6 +6,10 @@
 
 ## FluctSDK-Unity Release Note
 
+### v4.0.1 2020/01/06
+
+* [iOS向けSDKを更新 (v6.0.1)](https://github.com/voyagegroup/FluctSDK-iOS)
+
 ### v4.0.0 2019/12/19
 
 * バナー用APIを削除
