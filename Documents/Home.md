@@ -1,9 +1,19 @@
-# FluctSDK UnityPlugin Document
+# FluctSDK Unity Document
 
-## FluctSDK UnityPluginの導入方法
+## 動画リワード広告
+1. [アプリにFluctSDK-UnityPluginを追加する](アプリにFluctSDK-UnityPluginを追加する)
+2. [動画リワード広告を表示する](動画リワード広告を表示する)
 
-- [インストールガイド](インストールガイド)
+## AdMobからFluctSDKをメディエーションするバナー広告
+1. [AdMobのUnityプラグインとアダプターを追加する](AdMobのUnityプラグインとアダプターを追加する)
+2. [AdMobからバナー広告を表示する](AdMobからバナー広告を表示する)
 
-## FluctSDK UnityPluginの広告実装
+## AdMobからFluctSDKをメディエーションする動画リワード広告
+1. [AdMobのUnityプラグインとアダプターを追加する](AdMobのUnityプラグインとアダプターを追加する)
+2. [メディエーションするアドネットワークSDKを追加する](メディエーションするアドネットワークSDKを追加する)
+3. [AdMobから動画リワード広告を表示する](AdMobから動画リワード広告を表示する)
 
-* [動画リワード広告の実装](動画リワード広告の実装)
+## AdMobからFluctSDKをメディエーションする動画インタースティシャル広告
+1. [AdMobのUnityプラグインとアダプターを追加する](AdMobのUnityプラグインとアダプターを追加する)
+2. [メディエーションするアドネットワークSDKを追加する](メディエーションするアドネットワークSDKを追加する)
+3. [AdMobから動画インタースティシャル広告を表示する](AdMobから動画インタースティシャル広告を表示する)
