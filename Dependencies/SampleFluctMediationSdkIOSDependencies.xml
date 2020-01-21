@@ -1,16 +1,7 @@
 <dependencies>
 
     <iosPods>
-
-        <iosPod
-            name="FluctSDK"
-            version="6.0.3"
-            minTargetSdk="8.1">
-            <sources>
-                <source>https://github.com/CocoaPods/Specs</source>
-            </sources>
-        </iosPod>
-
+        <!-- ここからコピーしてご使用ください -->
         <iosPod
             name="FluctSDK-MediationAdapter/AppLovin"
             version="6.0.3"

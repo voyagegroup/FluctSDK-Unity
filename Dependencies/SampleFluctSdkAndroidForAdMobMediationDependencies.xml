@@ -1,0 +1,35 @@
+<dependencies>
+
+    <androidPackages>
+
+        <androidPackage spec="jp.fluct:FluctSDK:6.1.1">
+            <repositories>
+                <repository>https://voyagegroup.github.io/FluctSDK-Android/m2/repository</repository>
+                <repository>https://maven.google.com</repository>
+                <repository>https://jcenter.bintray.com</repository>
+                <repository>http://central.maven.org/maven2</repository>
+            </repositories>
+        </androidPackage>
+
+        <androidPackage spec="jp.fluct.mediation.gma:gma-mediation:6.1.1">
+            <repositories>
+                <repository>https://voyagegroup.github.io/FluctSDK-Android/m2/repository</repository>
+                <repository>https://maven.google.com</repository>
+                <repository>https://jcenter.bintray.com</repository>
+                <repository>http://central.maven.org/maven2</repository>
+            </repositories>
+        </androidPackage>
+
+        <androidPackage spec="jp.fluct.fluctsdk:banner:6.1.1">
+            <repositories>
+                <repository>https://voyagegroup.github.io/FluctSDK-Android/m2/repository</repository>
+                <repository>https://maven.google.com</repository>
+                <repository>https://jcenter.bintray.com</repository>
+                <repository>http://central.maven.org/maven2</repository>
+            </repositories>
+        </androidPackage>
+
+    </androidPackages>
+
+</dependencies>
+
