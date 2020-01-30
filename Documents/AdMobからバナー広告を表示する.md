@@ -5,7 +5,7 @@ eCPMの値は弊社担当コンサルタントより指定された数字を入�
 
 | 項目 | 入力内容 |
 |:-----|:----- |
-| Class Name | GADBannerAdapterFluct |
+| Class Name | `GADBannerAdapterFluct`(iOS) または `jp.fluct.mediation.gma.FluctMediationBannerAdAdapter`(Android)  |
 | Parameter | `GroupID`,`UnitID` |
 
 
