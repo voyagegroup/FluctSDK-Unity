@@ -4,7 +4,7 @@
         <!-- ここからコピーしてご使用ください -->
         <iosPod
             name="FluctSDK-MediationAdapter/AppLovin"
-            version="6.0.3"
+            version="6.1.1"
             minTargetSdk="9">
             <sources>
                 <source>https://github.com/CocoaPods/Specs</source>
@@ -22,7 +22,7 @@
 
         <iosPod
             name="FluctSDK-MediationAdapter/maio"
-            version="6.0.3"
+            version="6.1.1"
             minTargetSdk="8.1">
             <sources>
                 <source>https://github.com/CocoaPods/Specs</source>
@@ -40,7 +40,7 @@
 
         <iosPod
             name="FluctSDK-MediationAdapter/nend"
-            version="6.0.3"
+            version="6.1.1"
             minTargetSdk="8.1">
             <sources>
                 <source>https://github.com/CocoaPods/Specs</source>
@@ -58,7 +58,7 @@
 
         <iosPod
             name="FluctSDK-MediationAdapter/UnityAds"
-            version="6.0.3"
+            version="6.1.1"
             minTargetSdk="9">
             <sources>
                 <source>https://github.com/CocoaPods/Specs</source>
@@ -67,7 +67,7 @@
 
         <iosPod
             name="FluctSDK-MediationAdapter/Mintegral"
-            version="6.0.3"
+            version="6.1.1"
             minTargetSdk="8.1">
             <sources>
                 <source>https://github.com/CocoaPods/Specs</source>
@@ -94,7 +94,7 @@
 
         <iosPod
             name="FluctSDK-MediationAdapter/Tapjoy"
-            version="6.0.3"
+            version="6.1.1"
             minTargetSdk="8.1">
             <sources>
                 <source>https://github.com/CocoaPods/Specs</source>
@@ -112,7 +112,7 @@
 
         <iosPod
             name="FluctSDK-MediationAdapter/AdColony"
-            version="6.0.3"
+            version="6.1.1"
             minTargetSdk="9">
             <sources>
                 <source>https://github.com/CocoaPods/Specs</source>
@@ -130,7 +130,7 @@
 
         <iosPod
             name="FluctSDK-MediationAdapter/AdCorsa"
-            version="6.0.3"
+            version="6.1.1"
             minTargetSdk="8.1">
             <sources>
                 <source>https://github.com/CocoaPods/Specs</source>

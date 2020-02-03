@@ -23,5 +23,5 @@ UnitID: 1000160561
 と`Parameter`に入力してください。
 
 ### 広告の表示
-[AdMobのガイド](https://developers.google.com/admob/unity/rewarded-video?hl=ja)を参照してください。
-新しいAPIには未対応ですので、従来のAPIをご使用ください。
+[AdMobのガイド](https://developers.google.com/admob/unity/rewarded-ads?hl=ja)を参照してください。
+[従来のAPI](https://developers.google.com/admob/unity/rewarded-video?hl=ja)にも対応しています。

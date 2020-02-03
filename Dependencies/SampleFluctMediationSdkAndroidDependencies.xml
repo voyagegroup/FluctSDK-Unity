@@ -4,7 +4,7 @@
         <!-- ここからコピーしてご使用ください -->
         <!-- region AppLovin -->
 
-        <androidPackage spec="com.applovin:applovin-sdk:9.8.4">
+        <androidPackage spec="com.applovin:applovin-sdk:9.9.0">
             <repositories>
                 <repository>https://maven.google.com</repository>
                 <repository>https://jcenter.bintray.com</repository>
@@ -12,7 +12,7 @@
             </repositories>
         </androidPackage>
 
-        <androidPackage spec="jp.fluct.mediation:rewardedvideo-mediation-applovin:7.0.1">
+        <androidPackage spec="jp.fluct.mediation:rewardedvideo-mediation-applovin:7.1.0">
             <repositories>
                 <repository>https://voyagegroup.github.io/FluctSDK-Android/m2/repository</repository>
                 <repository>https://maven.google.com</repository>
@@ -34,7 +34,7 @@
             </repositories>
         </androidPackage>
 
-        <androidPackage spec="jp.fluct.mediation:rewardedvideo-mediation-maio:7.0.1">
+        <androidPackage spec="jp.fluct.mediation:rewardedvideo-mediation-maio:7.1.0">
             <repositories>
                 <repository>https://voyagegroup.github.io/FluctSDK-Android/m2/repository</repository>
                 <repository>https://imobile-maio.github.io/maven</repository>
@@ -57,7 +57,7 @@
             </repositories>
         </androidPackage>
 
-        <androidPackage spec="jp.fluct.mediation:rewardedvideo-mediation-nend:7.0.1">
+        <androidPackage spec="jp.fluct.mediation:rewardedvideo-mediation-nend:7.1.0">
             <repositories>
                 <repository>https://voyagegroup.github.io/FluctSDK-Android/m2/repository</repository>
                 <repository>http://fan-adn.github.io/nendSDK-Android-lib/library</repository>
@@ -71,7 +71,7 @@
 
         <!-- region Unity Ads -->
 
-        <androidPackage spec="com.unity3d.ads:unity-ads:3.2.0">
+        <androidPackage spec="com.unity3d.ads:unity-ads:3.3.0">
             <repositories>
                 <repository>https://maven.google.com</repository>
                 <repository>https://jcenter.bintray.com</repository>
@@ -79,7 +79,7 @@
             </repositories>
         </androidPackage>
 
-        <androidPackage spec="jp.fluct.mediation:rewardedvideo-mediation-unityads:7.0.1">
+        <androidPackage spec="jp.fluct.mediation:rewardedvideo-mediation-unityads:7.1.0">
             <repositories>
                 <repository>https://voyagegroup.github.io/FluctSDK-Android/m2/repository</repository>
                 <repository>https://maven.google.com</repository>
@@ -92,7 +92,7 @@
 
         <!-- region AdColony -->
 
-        <androidPackage spec="com.adcolony:sdk:3.3.11">
+        <androidPackage spec="com.adcolony:sdk:4.1.0">
             <repositories>
                 <repository>https://adcolony.bintray.com/AdColony</repository>
                 <repository>https://maven.google.com</repository>
@@ -101,7 +101,7 @@
             </repositories>
         </androidPackage>
 
-        <androidPackage spec="jp.fluct.mediation:rewardedvideo-mediation-adcolony:7.0.1">
+        <androidPackage spec="jp.fluct.mediation:rewardedvideo-mediation-adcolony:7.1.0">
             <repositories>
                 <repository>https://voyagegroup.github.io/FluctSDK-Android/m2/repository</repository>
                 <repository>https://adcolony.bintray.com/AdColony</repository>
@@ -115,7 +115,7 @@
 
         <!-- region Tapjoy -->
 
-        <androidPackage spec="com.tapjoy:tapjoy-android-sdk:12.3.1@aar">
+        <androidPackage spec="com.tapjoy:tapjoy-android-sdk:12.4.1@aar">
             <repositories>
                 <repository>https://tapjoy.bintray.com/maven</repository>
                 <repository>https://maven.google.com</repository>
@@ -124,7 +124,7 @@
             </repositories>
         </androidPackage>
 
-        <androidPackage spec="jp.fluct.mediation:rewardedvideo-mediation-tapjoy:7.0.1">
+        <androidPackage spec="jp.fluct.mediation:rewardedvideo-mediation-tapjoy:7.1.0">
             <repositories>
                 <repository>https://voyagegroup.github.io/FluctSDK-Android/m2/repository</repository>
                 <repository>https://tapjoy.bintray.com/maven</repository>
@@ -147,7 +147,7 @@
             </repositories>
         </androidPackage>
 
-        <androidPackage spec="jp.fluct.mediation:rewardedvideo-mediation-adcorsa:7.0.1">
+        <androidPackage spec="jp.fluct.mediation:rewardedvideo-mediation-adcorsa:7.1.0">
             <repositories>
                 <repository>https://voyagegroup.github.io/FluctSDK-Android/m2/repository</repository>
                 <repository>https://github.com/glossom-dev/GlossomAds-Android/raw/master</repository>
@@ -162,3 +162,4 @@
     </androidPackages>
 
 </dependencies>
+
