@@ -5,10 +5,16 @@
 
 ## アダプターを追加する
 
-### Androidのアダプター
-`Assets/`配下の任意の場所に`Editor/FluctAndroidDependencies.xml`を作成し、
-[FluctSDKの依存](https://github.com/voyagegroup/FluctSDK-Unity/blob/master/Dependencies/SampleFluctSdkAndroidForAdMobMediationDependencies.xml)を記述してください。
+1. [最新のリリースページ](https://github.com/voyagegroup/FluctSDK-Unity/releases/latest)より`GoogleMobileAdsFluctMediation.unitypackage`をダウンロードしてください。
 
-### iOSのアダプター
-`Assets/`配下の任意の場所に`Editor/FluctIOSDependencies.xml`を作成し、
-[FluctSDKの依存](https://github.com/voyagegroup/FluctSDK-Unity/blob/master/Dependencies/SampleFluctSdkIOSForAdMobMediationDependencies.xml)を記述してください。
+2. Unity のメニューから、 `Assets` -> `Import Package` -> `Custom Package...`の順番でクリックしてください。
+
+![screenshot01](./img/import_admob_mediation_unitypackage_01.png)
+
+3. ダウンロードした `GoogleMobileAdsFluctMediation.unitypackage`を選択してimportして下さい。
+
+![screenshot02](./img/import_admob_mediation_unitypackage_02.png)
+
+4. importされるファイルが選択できる画面が出るので、`import`を押してください。これで導入完了です。
+
+![screenshot03](./img/import_admob_mediation_unitypackage_03.png)

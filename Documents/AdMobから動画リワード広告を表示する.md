@@ -3,11 +3,21 @@
 
 eCPMの値は弊社担当コンサルタントより指定された数字を入力ください。`GroupID`と`UnitID`は弊社担当コンサルタントにお問い合わせください。
 
+#### iOSの場合
+
 | 項目 | 入力内容 |
 |:-----|:----- |
-| Class Name | `GADMediationAdapterFluct`(iOS) または `jp.fluct.mediation.gma.FluctMediationRewardedVideoAdAdapter`(Android) |
+| Class Name | `GADMediationAdapterFluct`  |
 | Parameter | `GroupID`,`UnitID` |
 
+#### Androidの場合
+
+| 項目 | 入力内容 |
+|:-----|:----- |
+| Class Name | `jp.fluct.mediation.gma.FluctMediationRewardedVideoAdAdapter` |
+| Parameter | `GroupID`,`UnitID` |
+
+#### 入力するParameterについて
 
 ```
 GroupID: 1000104107
