@@ -11,7 +11,7 @@
 * [Android向けSDKを更新 (v7.2.1)](https://github.com/voyagegroup/FluctSDK-Android)
 * [iOS向けSDKを更新 (v6.2.0)](https://github.com/voyagegroup/FluctSDK-iOS)
 * AdMob用メディエーションアダプターの提供方法を刷新
-    * 詳しくは[AdMobのUnityプラグインとアダプターを追加する · voyagegroup/FluctSDK-Unity-Dev Wiki](https://github.com/voyagegroup/FluctSDK-Unity/wiki/AdMobのUnityプラグインとアダプターを追加する)を参照ください
+    * 詳しくは[AdMobのUnityプラグインとアダプターを追加する · voyagegroup/FluctSDK-Unity Wiki](https://github.com/voyagegroup/FluctSDK-Unity/wiki/AdMobのUnityプラグインとアダプターを追加する)を参照ください
 
 ### v5.0.5 2020/02/13
 
