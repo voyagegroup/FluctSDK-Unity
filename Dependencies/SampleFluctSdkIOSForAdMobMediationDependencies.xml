@@ -4,7 +4,7 @@
 
         <iosPod
             name="GoogleMobileAdsMediationFluct"
-            version="6.2.0"
+            version="6.2.1"
             minTargetSdk="8.1">
             <sources>
                 <source>https://github.com/CocoaPods/Specs</source>
@@ -13,7 +13,7 @@
 
         <iosPod
             name="FluctSDK"
-            version="6.2.0"
+            version="6.2.1"
             minTargetSdk="8.1">
             <sources>
                 <source>https://github.com/CocoaPods/Specs</source>
