@@ -2,6 +2,37 @@
 
 弊社担当コンサルタントに指定されたアドネットワークの追加をお願いします。
 
+## 接続アドネットワーク
+
+### iOS
+
+- AppLovin
+    - iOS9以上
+- Maio
+    - Xcode10以下をしようしている場合はMaioSDKのバージョン1.4.8をご使用ください
+        - [リリースノート](https://github.com/imobile-maio/maio-iOS-SDK/releases)
+- Nend
+- UnityAds
+    - iOS9以上
+    - Xcode10以上をお使いください
+- Tapjoy
+- AdColony
+    - iOS9以上
+    - Xcode10以下のバージョンで開発している場合はAdColonyのSDKのバージョン4.1.1をご使用ください
+        - [CHANGELOG](https://github.com/AdColony/AdColony-iOS-SDK/blob/master/CHANGELOG.md)
+- AdCorsa
+- Mintegral
+
+### Android
+
+- AppLovin
+- Maio
+- Nend
+- UnityAds
+- Tapjoy
+- AdColony
+- AdCorsa
+
 ## アダプターを追加する
 
 1. [最新のリリースページ](https://github.com/voyagegroup/FluctSDK-Unity/releases/latest)より`FluctSDK-MediationAdapters.zip`をダウンロードして解凍してください。
