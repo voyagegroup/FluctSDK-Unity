@@ -6,6 +6,10 @@
 
 ## FluctSDK-Unity Release Note
 
+### v5.1.5 2020/04/03
+
+* [iOS向けSDKを更新 (v6.3.5)](https://github.com/voyagegroup/FluctSDK-iOS)
+
 ### v5.1.4 2020/03/30
 
 * [iOS向けSDKを更新 (v6.3.3)](https://github.com/voyagegroup/FluctSDK-iOS)
