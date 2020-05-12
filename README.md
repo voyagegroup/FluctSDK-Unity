@@ -6,6 +6,11 @@
 
 ## FluctSDK-Unity Release Note
 
+### v5.2.0 2020/05/12
+
+* External Dependency Manager for Unity (旧Play Services Resolver)をv1.2.153へ更新
+* [Android向けSDKを更新 (v7.5.1)](https://github.com/voyagegroup/FluctSDK-Android)
+
 ### v5.1.7 2020/05/12
 
 * [iOS向けSDKを更新 (v6.5.0)](https://github.com/voyagegroup/FluctSDK-iOS)
