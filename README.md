@@ -6,6 +6,10 @@
 
 ## FluctSDK-Unity Release Note
 
+### v5.2.1 2020/05/12
+
+* EDM4Uファイルを同梱する形に修正
+
 ### v5.2.0 2020/05/12
 
 * External Dependency Manager for Unity (旧Play Services Resolver)をv1.2.153へ更新
