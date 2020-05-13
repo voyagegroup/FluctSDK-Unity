@@ -6,6 +6,10 @@
 
 ## FluctSDK-Unity Release Note
 
+### v5.2.2 2020/05/13
+
+* [iOS向けSDKを更新 (v6.5.1)](https://github.com/voyagegroup/FluctSDK-iOS)
+
 ### v5.2.1 2020/05/12
 
 * EDM4Uファイルを同梱する形に修正
