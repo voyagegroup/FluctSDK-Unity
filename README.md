@@ -1,5 +1,7 @@
 # FluctSDK-Unity
 
+**FluctSDK-Unityのサポートは終了しました。**
+
 ## ドキュメント
 
 [こちら](https://voyagegroup.github.io/FluctSDK-Doc/#/)を参照してください
